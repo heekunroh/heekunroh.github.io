@@ -4,4 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
+title: title 1
 ---
+
+## heading 2
+
+yay
