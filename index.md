@@ -4,8 +4,33 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
-title: Welcome!
+title: About
 ---
 
+Download CV Here (To be uploaded)
+
+![cover]({{ site.url }}{{ site.baseurl }}/assets/images/cover_pic_hroh.jpg)
+
+
 ## Biography
-working on...
+ROH, Heekun is an aerospace engineer devoted to the advancement of future space systems. (Since his childhood!)
+
+Heekun is an associate GNC engineer at Satrec Initiative, Co. Ltd, since 2019. 
+Before joining SI, he obtained his Master's degree from the Department of Aerospace Engineering at Korea Advanced Institute of Science and Technology. (Spring 2019, Advisor: Professor Min-Jea Tahk)
+He received his bachelor's degree in Aerospace Engineering and Electrical Engineering, with the highest honors. (Spring 2017, Summa Cum Laude) 
+During the period, he was also a recipient of the KAIST Presidential Fellowship. 
+
+In SI, he is the developer of the Attitude Determination and Control System(ADCS) for SI's Earth-observing satellite systems. 
+He is currently developing the Flight Control Software(FCS) of the SpaceEye-X satellite system, which will be launched in 2022.
+
+His primary research interest includes: 
+- Guidance, Navigation, and Control Methods for Aerospace Systems
+- Real-Time Trajectory Optimization
+- Sequential Convex Methods 
+- Robust Trajectory Optimization 
+- Mixed Integer Optimization 
+- Space Systems 
+
+**Note** His first name, Heekun (희건) is pronounced as if "He's gone," yet without 's.
+{: .notice--warning}
+

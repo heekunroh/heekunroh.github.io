@@ -58,7 +58,7 @@ plugins:
 
 author:
   name: "Heekun Roh"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/profile_pic_hroh.jpg"
   bio: "Associate GNC Satellite Attitude Determination & Control Engineer at Satrec Initiative Co., Ltd. "
   location: "Daejeon, Korea"
   email: "hroh@satreci.com" 
@@ -119,9 +119,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
