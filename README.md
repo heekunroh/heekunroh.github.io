@@ -1,6 +1,6 @@
 # Personal Github Page using Minimal Mistakes remote theme starter
 
-## Modified:
+## Modified
 - overrided home.html for custom landing page. removed paginator
 
 ## Using  Minimal Mistakes remote theme starter
