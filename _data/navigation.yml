@@ -1,6 +1,8 @@
 main:
-- title: "Publications"
-  url: /publications/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
