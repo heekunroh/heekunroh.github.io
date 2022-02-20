@@ -9,12 +9,13 @@ author_profile: true
 ## Future Research Interests 
 # Short Term
 - Real-Time Guidance of Satellite Attitude Operation with Rate Constraints
-- Image Acquisition Planning of Push-broom Imagers
-- Advanced Aerodynamic Modelling for Optimal Pin-point Landing Guidance
-  
+- Optimal Image Acquisition Planning of EO & SAR Satellites
+- Optimal Guidance in Non-Convex Environments
 # Long Term
-- Robust Trajectory Optimization for Space Systems
-- Verification and Appraisal of Guidance & Control Systems
+- Robust Trajectory Optimization / Optimal Control for Space Systems
+- Novel Space Systems
+- Quantification Scheme of Robustness and Optimality
+- Verification and Appraisal of Emerging Guidance & Control Systems
   
 ## Previous Research 
 # 2019 - (Satrec Initiative)
@@ -24,5 +25,6 @@ author_profile: true
 
 # 2017 - 2019 (KAIST)
 - Sequential Convex Optimization for Real-Time Guidance
+- Trajectory Optimization of Aerodynamically Controlled Objects
 - Mixed Integer Linear Programming for Optimal Asset Allocation
 - Angle-Only Navigation Techniques

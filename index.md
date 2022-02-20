@@ -7,9 +7,14 @@ author_profile: true
 title: About
 ---
 
-Download CV Here (To be uploaded)
+Download CV [Here]({{ site.url }}/download/HROH_CV.pdf) (Updated Mar 03, 2021)
 
+
+How it started:
 ![cover]({{ site.url }}{{ site.baseurl }}/assets/images/cover_pic_hroh.jpg)
+
+How it's going:
+
 
 
 ## Biography
@@ -25,13 +30,13 @@ During the period, he was also a recipient of the KAIST Presidential Fellowship.
 
 In SI, he leads the development of the Attitude Determination and Control System(ADCS) for SI's Earth-observing satellite systems. 
 He is currently developing the Flight Control Software(FCS) of the SpaceEye-X satellite system, which will be launched in 2022.
-ch
+
 His primary research interest includes: 
 - Guidance, Navigation, and Control Methods for Aerospace Systems
+- Novel Space Systems 
 - Real-Time Trajectory Optimization
 - Sequential Convex Methods 
 - Robust Trajectory Optimization 
 - Mixed Integer Optimization 
-- Space Systems 
 
 
