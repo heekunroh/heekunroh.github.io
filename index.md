@@ -7,23 +7,13 @@ author_profile: true
 title: About
 ---
 
-Download CV [Here]({{ site.url }}/download/HROH_CV.pdf) (Updated Mar 03, 2021)
+Download CV [Here]({{ site.url }}/download/HROH_CV.pdf) (Updated Feb 21, 2022)
 
-
-How it started:
-![cover]({{ site.url }}{{ site.baseurl }}/assets/images/cover_pic_hroh.jpg)
-
-How it's going:
-
-
-
-## Biography
-ROH, Heekun is an aerospace engineer devoted to the advancement of future space systems. 
+ROH, Heekun is an aerospace engineer devoted to the advancement of future space systems. He is currently associate GNC engineer at Satrec Initiative, Co. Ltd, since 2019. 
 
 **Note** His first name, Heekun (희건) is pronounced as if "He's gone," yet without 's. HE-GONE
 {: .notice--warning}
 
-Heekun is an associate GNC engineer at Satrec Initiative, Co. Ltd, since 2019. 
 Before joining SI, he obtained his Master's degree from the Department of Aerospace Engineering at Korea Advanced Institute of Science and Technology. (Spring 2019, Advisor: Professor Min-Jea Tahk)
 He received his bachelor's degree in Aerospace Engineering and Electrical Engineering, with the highest honors. (Spring 2017, Summa Cum Laude) 
 During the period, he was also a recipient of the KAIST Presidential Fellowship. 

@@ -11,6 +11,7 @@ author_profile: true
 - Real-Time Guidance of Satellite Attitude Operation with Rate Constraints
 - Optimal Image Acquisition Planning of EO & SAR Satellites
 - Optimal Guidance in Non-Convex Environments
+
 # Long Term
 - Robust Trajectory Optimization / Optimal Control for Space Systems
 - Novel Space Systems
