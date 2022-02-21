@@ -16,12 +16,12 @@ I, Heekun ROH is an aerospace engineer devoted to the advancement of future spac
 
 I am currently associate GNC engineer at Satrec Initiative, Co. Ltd, since 2019. 
 
-Before joining SI, I obtained his Master's degree from the Department of Aerospace Engineering at Korea Advanced Institute of Science and Technology. (Spring 2019, Advisor: Professor Min-Jea Tahk)
+Before joining Satrec Initiative, I obtained his Master's degree from the Department of Aerospace Engineering at Korea Advanced Institute of Science and Technology. (Spring 2019, Advisor: Professor Min-Jea Tahk)
 I also received his bachelor's degree in Aerospace Engineering and Electrical Engineering, with the highest honors. (Spring 2017, Summa Cum Laude) 
 During the period, I was also a recipient of the KAIST Presidential Fellowship. 
 
-In SI, I lead the development of the Attitude Determination and Control System(ADCS) for SI's Earth-observing satellite systems. 
-I am currently developing the Flight Control Software(FCS) of the SpaceEye-X satellite system, which will be launched in 2022.
+In SI, I drive the development of the Attitude Determination and Control System for Satrec Initiative's Earth-observing satellite systems. 
+I am currently developing the Flight Control Software of the SpaceEye-X satellite system, which will be launched in 2022.
 
 My primary research interest includes: 
 - Guidance, Navigation, and Control Methods for Aerospace Systems
