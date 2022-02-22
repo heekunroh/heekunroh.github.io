@@ -14,7 +14,7 @@ I, Heekun ROH is an aerospace engineer devoted to the advancement of future spac
 **Note** My first name, Heekun (희건) is pronounced as if "He's gone," yet without 's. HE-GONE
 {: .notice--warning}
 
-I am currently associate GNC engineer at Satrec Initiative, Co. Ltd, since 2019. 
+I am currently an associate GNC engineer at Satrec Initiative, Co. Ltd, a Korean manufacturer of satellite systems for civil and commercial space applications, since 2019. 
 
 Before joining Satrec Initiative, I obtained his Master's degree from the Department of Aerospace Engineering at Korea Advanced Institute of Science and Technology. (Spring 2019, Advisor: Professor Min-Jea Tahk)
 I also received his bachelor's degree in Aerospace Engineering and Electrical Engineering, with the highest honors. (Spring 2017, Summa Cum Laude) 
