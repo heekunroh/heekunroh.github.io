@@ -7,7 +7,7 @@ author_profile: true
 title: About
 ---
 
-Download CV [Here]({{ site.url }}/download/HROH_CV.pdf) (Updated Feb 21, 2022)
+Download CV [Here]({{ site.url }}/download/HROH_CV.pdf) (Updated Feb 22, 2022)
 
 I, Heekun ROH is an aerospace engineer devoted to the advancement of future space systems. 
 
