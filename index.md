@@ -7,7 +7,8 @@ author_profile: true
 title: About
 ---
 
-Download CV [Here]({{ site.url }}/download/HROH_CV.pdf) (Updated Feb 22, 2022)
+Download [Short CV]({{ site.url }}/download/HROH_CV_1PAGE.pdf) / [Full CV]({{site.url}}/../download/HROH_CV_FULL.pdf) (Updated Mar 07, 2021) 
+
 
 I am an aerospace engineer devoted to the advancement of future space systems. 
 
@@ -29,7 +30,7 @@ My primary research interest includes:
 - Novel Space Systems 
 - Real-Time Trajectory Optimization
 - Sequential Convex Methods 
-- Robust Trajectory Optimization 
+- Robust Guidance
 - Mixed Integer Optimization 
 
 

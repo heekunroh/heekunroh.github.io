@@ -13,9 +13,9 @@ author_profile: true
 - Optimal Guidance in Non-Convex Environments
 
 # Long Term
-- Robust Trajectory Optimization / Optimal Control for Space Systems
+- Robust Guidance / Optimal Control for Space Systems
 - Novel Space Systems
-- Quantification Scheme of Robustness and Optimality
+- Quantification and Evaluation of Robustness versus Optimality
 - Verification and Appraisal of Emerging Guidance & Control Systems
   
 ## Previous Research 
@@ -28,4 +28,4 @@ author_profile: true
 - Sequential Convex Optimization for Real-Time Guidance
 - Trajectory Optimization of Aerodynamically Controlled Objects
 - Mixed Integer Linear Programming for Optimal Asset Allocation
-- Angle-Only Navigation Techniques
+- Angle-Only Estimation Filters
