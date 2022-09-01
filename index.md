@@ -7,7 +7,7 @@ author_profile: true
 title: About
 ---
 
-Download [Resume]({{ site.url }}/download/HROH_CV_1PAGE.pdf) / [Full CV]({{site.url}}/../download/HROH_CV_FULL.pdf) (Updated Mar 07, 2021) 
+Download [Resume]({{ site.url }}/download/HROH_CV_1PAGE.pdf) / [Full CV]({{site.url}}/../download/HROH_CV_FULL.pdf) (Updated Sep. 01, 2022) 
 
 
 I am an aerospace engineer devoted to the advancement of future space systems. 
