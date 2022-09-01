@@ -13,9 +13,9 @@ author_profile: true
 - Optimal Guidance in Non-Convex Environments
 
 # Long Term
+- Design and Developement of Novel Space Systems 
 - Robust Guidance / Optimal Control for Space Systems
-- Novel Space Systems
-- Quantification and Evaluation of Robustness versus Optimality
+- Chance Constrained Optimization for Space Systems
 - Verification and Appraisal of Emerging Guidance & Control Systems
   
 ## Previous Research 
