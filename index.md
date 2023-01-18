@@ -15,10 +15,11 @@ I am an aerospace engineer devoted to the advancement of future space systems.
 **Note** My first name, Heekun (희건) is pronounced as if "He's gone," yet without 's. HE-GONE
 {: .notice--warning}
 
-I am currently an associate GNC systems engineer at Satrec Initiative, Co. Ltd, a Korean manufacturer of satellite systems for civil and commercial space applications, since 2019. 
-In Satrec Initiative, I propel the development of the Attitude Determination and Control System for Satrec Initiative's Earth-observing satellite systems. 
-I am a primary developer of the Flight Control Software for the SpaceEye-X satellite system, which is in orbit since Jul. 2022.
+I am a research scientist at Flight Dynamics and Control Laboratory (FDCL) led by Prof. Chang-Hun Lee and Min-Jea Tahk, at Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST). I am currently developing an embedded convex optimization software for the development of several novel aerospace guidance and control systems, such as the landing guidance of the reusable launch vehicles. 
 
+I was an associate GNC systems engineer at Satrec Initiative, Co. Ltd, a Korean manufacturer of satellite systems for civil and commercial space applications, since 2019. 
+In Satrec Initiative, I propeled the development of the Attitude Determination and Control System for Satrec Initiative's Earth-observing satellite systems. 
+I was a primary developer of the Flight Control Software for the SpaceEye-X satellite system, which is in orbit since Jul. 2022.
 
 Before joining Satrec Initiative, I obtained a master's degree from the Department of Aerospace Engineering at Korea Advanced Institute of Science and Technology. (Spring 2019, Advisor: Professor Min-Jea Tahk)
 I also received a bachelor's degree in Aerospace Engineering and Electrical Engineering, with the highest honors. (Spring 2017, Summa Cum Laude) 
