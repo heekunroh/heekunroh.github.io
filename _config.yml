@@ -34,6 +34,9 @@ timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zo
 include:
   - _pages
 
+atom_feed:
+  hide: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -59,20 +62,23 @@ plugins:
 author:
   name: "Heekun Roh"
   avatar: "/assets/images/profile_pic_hroh.jpg"
-  bio: "Associate GNC Systems Engineer at Satrec Initiative Co., Ltd. "
+  bio: "Research Scientist at Flight Dynamics and Control Laboratory (FDCL) at the Department of Aerospace Engineering, KAIST"
   location: "Daejeon, Korea"
-  email: "hroh@satreci.com" 
+  email: "heekunroh@kaist.ac.kr" 
 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://heekunroh.github.io"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/heekunroh"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/heekunroh"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/heekun-roh-213922160/"
+    - label: "GoogleScholar"
+      icon: "fas fa-fw fa-university"
+      url: "https://scholar.google.co.kr/citations?user=5Ar3RE0AAAAJ/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
@@ -85,12 +91,15 @@ footer:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://heekunroh.github.io"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/heekunroh"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/heekunroh"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/heekun-roh-213922160/"
+    - label: "GoogleScholar"
+      icon: "fas fa-fw fa-university"
+      url: "https://scholar.google.co.kr/citations?user=5Ar3RE0AAAAJ/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
