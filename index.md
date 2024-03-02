@@ -7,30 +7,21 @@ author_profile: true
 title: About
 ---
 
-Download [Resume]({{ site.url }}/download/HROH_CV_1PAGE.pdf) / [Full CV]({{site.url}}/../download/HROH_CV_FULL.pdf) (Updated Sep. 01, 2022) 
+Download [Resume]({{ site.url }}/download/HROH_CV_1PAGE.pdf) / [Full CV]({{site.url}}/../download/HROH_CV_FULL.pdf) (Updated Mar. 01, 2024) 
 
 
-I am an aerospace engineer devoted to the advancement of future space systems. 
+I am a systems engineer devoted to the advancement of future space missions. 
 
 **Note** My first name, Heekun (희건) is pronounced as if "He's gone," yet without 's. HE-GONE
 {: .notice--warning}
 
-I am a research scientist at Flight Dynamics and Control Laboratory (FDCL) led by Prof. Chang-Hun Lee and Min-Jea Tahk, at Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST). I am currently developing an embedded convex optimization software for the development of several novel aerospace guidance and control systems, such as the landing guidance of the reusable launch vehicles. 
+I am a PhD candidate / research assistance at the Engineering Systems Laboratory (ESL), MIT Department of Aeronautics and Astronautics. My research interest lies in the intersection in between the systems theory and the space systems. My current research topic includes novel theoretical system analysis techniques, and investigation of future space situational awareness systems. I am currently being advised by Professor Olivier L. de Weck.
 
-I was an associate GNC systems engineer at Satrec Initiative, Co. Ltd, a Korean manufacturer of satellite systems for civil and commercial space applications, since 2019. 
-In Satrec Initiative, I propeled the development of the Attitude Determination and Control System for Satrec Initiative's Earth-observing satellite systems. 
+I was an associate GNC systems engineer at Satrec Initiative, Co. Ltd, a Korean manufacturer of satellite systems for civil and commercial space applications.
+At Satrec Initiative, I propeled the development of the Attitude Determination and Control System for Satrec Initiative's Earth-observing satellite systems. 
 I was a primary developer of the Flight Control Software for the SpaceEye-X satellite system, which is in orbit since Jul. 2022.
 
-Before joining Satrec Initiative, I obtained a master's degree from the Department of Aerospace Engineering at Korea Advanced Institute of Science and Technology. (Spring 2019, Advisor: Professor Min-Jea Tahk)
+I obtained a master's degree from the Department of Aerospace Engineering at Korea Advanced Institute of Science and Technology. (Spring 2019, Advisor: Professor Min-Jea Tahk)
 I also received a bachelor's degree in Aerospace Engineering and Electrical Engineering, with the highest honors. (Spring 2017, Summa Cum Laude) 
 During the period, I was also a recipient of the KAIST Presidential Fellowship. 
-
-
-My primary research interest includes: 
-- Novel Space Systems 
-- Systems Design and Developement
-- Guidance, Navigation, and Control Methods for Aerospace Systems
-- Real-Time Trajectory Optimization
-- Sequential Convex Methods 
-
 

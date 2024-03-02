@@ -6,20 +6,18 @@ permalink: /research/
 author_profile: true
 ---
 
-## Future Research Interests 
-# Short Term
-- Real-Time Guidance of Satellite Attitude Operation with Rate Constraints
-- Optimal Image Acquisition Planning of EO & SAR Satellites
-- Optimal Guidance in Non-Convex Environments
-
-# Long Term
-- Design and Developement of Novel Space Systems 
-- Robust Guidance / Optimal Control for Space Systems
-- Chance Constrained Optimization for Space Systems
-- Verification and Appraisal of Emerging Guidance & Control Systems
+## Research Interests 
+# 2023 - (MIT)
+- Systems Engineering Theories
+- System Probing Methods
+- Complexity Quantification
+- Analysis of Emerging Space Systems
   
 ## Previous Research 
-# 2019 - (Satrec Initiative)
+# 2022 - 2023 (KAIST)
+- Development of Embedded Convex Optimization Solver
+
+# 2019 - 2022 (Satrec Initiative)
 - Quaternion Guidance with Rate Constraints
 - Non-iterative Attitude Guidance on Geodesic Lines
 - High-Precision Satellite Attitude and Misalignment Estimation 
