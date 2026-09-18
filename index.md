@@ -10,18 +10,11 @@ title: About
 Download [Resume]({{ site.url }}/download/HROH_CV_1PAGE.pdf) / [Full CV]({{site.url}}/../download/HROH_CV_FULL.pdf) (Updated Mar. 01, 2024) 
 
 
-I am a systems engineer devoted to the advancement of future space missions. 
+I am a systems engineer devoted to the advancement of future engineering systems.
 
 **Note** My first name, Heekun (희건) is pronounced as if "He's gone," yet without 's. HE-GONE
 {: .notice--warning}
 
-I am a PhD candidate / research assistance at the Engineering Systems Laboratory (ESL), MIT Department of Aeronautics and Astronautics. My research interest lies in the intersection in between the systems theory and the space systems. My current research topic includes novel theoretical system analysis techniques, and investigation of future space situational awareness systems. I am currently being advised by Professor Olivier L. de Weck.
+I am a PhD candidate at the MIT Department of Aeronautics and Astronautics. My research lies at the intersection of systems theory and space systems. I am currently advised by Professor Olivier L. de Weck, and also with Prof. Edward F. Crawley and Prof. Johannes J. Norheim.
 
-I was an associate GNC systems engineer at Satrec Initiative, Co. Ltd, a Korean manufacturer of satellite systems for civil and commercial space applications.
-At Satrec Initiative, I propeled the development of the Attitude Determination and Control System for Satrec Initiative's Earth-observing satellite systems. 
-I was a primary developer of the Flight Control Software for the SpaceEye-X satellite system, which is in orbit since Jul. 2022.
-
-I obtained a master's degree from the Department of Aerospace Engineering at Korea Advanced Institute of Science and Technology. (Spring 2019, Advisor: Professor Min-Jea Tahk)
-I also received a bachelor's degree in Aerospace Engineering and Electrical Engineering, with the highest honors. (Spring 2017, Summa Cum Laude) 
-During the period, I was also a recipient of the KAIST Presidential Fellowship. 
-
+Previously, I was an associate GNC systems engineer at Satrec Initiative, Co., Ltd. At Satrec Initiative, I propelled the development of the Attitude Determination and Control System for Satrec Initiative’s Earth-Observing satellite systems, as well as holistic mission capability analysis evaluating overall system design. I developed the Flight Control Software for several EO satellites, including the 25cm Very High-Resolution (VVHR) commercial EO satellite SpaceEye-T, which has been in orbit since March 2025.
