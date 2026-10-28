@@ -7,7 +7,7 @@ author_profile: true
 title: About
 ---
 
-Download [Resume]({{ site.url }}/download/HROH_CV_1PAGE.pdf) / [Full CV]({{site.url}}/../download/HROH_CV_FULL.pdf) (Updated Mar. 01, 2024) 
+Download [Full CV]({{site.url}}/../download/download/cv_20250600.pdf) (Updated Oct. 28, 2024) 
 
 
 I am a systems engineer devoted to the advancement of future engineering systems.
